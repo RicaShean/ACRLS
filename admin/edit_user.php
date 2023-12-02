@@ -1,4 +1,6 @@
 <?php
+
+/*Stella's task*/
 // Replace with your database credentials
 $servername = "localhost";
 $username = "root";
